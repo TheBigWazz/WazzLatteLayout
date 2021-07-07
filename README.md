@@ -9,11 +9,17 @@ My personal daily Latte Layout
 -If you want don't care about matching the widgets, just import the layout and start arranging as you like. 
 
 Latte Separator          - https://github.com/psifidotos/applet-latte-separator/
+
 Present Windows Button   - https://github.com/Zren/plasma-applet-presentwindows
+
 Window Title             - https://github.com/psifidotos/applet-window-title/
+
 Better Inline Clock      - https://github.com/MarianArlt/kde-plasmoid-chiliclock
+
 Latte Spacer             - https://github.com/psifidotos/applet-latte-spacer/releases
+
 Window Buttons           - https://github.com/psifidotos/applet-window-buttons
+
 Compact Shutdown         - https://github.com/varlesh/org.kde.plasma.compact-shutdown
 
 
