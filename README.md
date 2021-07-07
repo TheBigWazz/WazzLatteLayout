@@ -46,3 +46,6 @@ Compact Shutdown         - https://github.com/varlesh/org.kde.plasma.compact-shu
 > Bottom dock   - (Present Windows Button - Separator - Latte Tasks)
 
 \* Icon for application launcher is provided as "drill-down-icon-2.svg" Right click app launcher, Click Configure, click the current icon and then browse to the provided .svg
+
+
+Wallpaper: https://imgur.com/gallery/RSus7Xc
