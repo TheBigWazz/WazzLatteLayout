@@ -1,5 +1,6 @@
 # WazzLatteLayout
 ### My personal daily Latte Layout
+What once was my personal dialy layout has since been picked up by [XeroLinux](https://github.com/xerolinux). It was shipped as default in Xero's early ISOs.
 
 ![Wazz-latte](https://user-images.githubusercontent.com/80355486/124796461-0add3880-df06-11eb-97be-2ab934d8eec3.png)
 ## Info
